@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14135" started-at="2018-05-27T20:54:01Z" finished-at="2018-05-27T20:54:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14135" started-at="2018-05-27T20:54:01Z" finished-at="2018-05-27T20:54:16Z">
+      <class name="Main.Starter">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Main.Starter@cb5822]" name="Setup" is-config="true" duration-ms="2126" started-at="2018-05-27T20:54:01Z" finished-at="2018-05-27T20:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Main.Starter@cb5822]" name="Login" duration-ms="11517" started-at="2018-05-27T20:54:04Z" finished-at="2018-05-27T20:54:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="more()[pri:0, instance:Main.Starter@cb5822]" name="more" duration-ms="320" started-at="2018-05-27T20:54:15Z" finished-at="2018-05-27T20:54:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- more -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Main.Starter@cb5822]" name="Teardown" is-config="true" duration-ms="134" started-at="2018-05-27T20:54:15Z" finished-at="2018-05-27T20:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Main.Starter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
